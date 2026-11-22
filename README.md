@@ -1,6 +1,6 @@
 <div align="center">
 
-# shane ★
+# hi, i'm shane! ★
 
 **UI/UX Designer · Graphic Designer · Developer**
 
