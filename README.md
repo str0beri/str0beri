@@ -12,7 +12,7 @@ i design things. sometimes i code them too.
 
 ### ✦ about
 
-third-year BSIT student based in the philippines.
+third-year BSIT student based in the Philippines.
 
 mostly into UI/UX and graphic design, but i also enjoy the development side of things. from figuring out how something should look and feel to making it actually work.
 
